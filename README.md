@@ -28,5 +28,5 @@ Para evitar las métricas superficiales (como promedios simples sesgados por val
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/portafolio_olist.git](https://github.com/gruumsh1/portafolio_olist.git)
+   git clone https://github.com/gruumsh1/portafolio_olist.git
    cd portafolio_olist
