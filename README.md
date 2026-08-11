@@ -1,3 +1,5 @@
+🔗 **Demo en vivo:** [Ver aplicación en Streamlit Cloud](https://portafolioolist-f8vmvyzexf4l9owmxiyo26.streamlit.app/)
+
 # 📦 Análisis Analítico e Inferencial de E-Commerce (Logística y Satisfacción)
 
 Este proyecto desarrolla una aplicación web interactiva de Inteligencia de Negocios (BI) y analítica avanzada utilizando **Python, Streamlit y Plotly**, corriendo sobre un entorno optimizado en Linux. El objetivo es transformar datos crudos transaccionales en *insights* accionables para la optimización de cadenas de suministro y retención de clientes.
